@@ -1,6 +1,5 @@
 Full React Project - Stopwatch
 
-How To Create Stopwatch Using React from Scratch.
 Build Real Web App with React.
 
 ## Available Scripts
